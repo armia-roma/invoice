@@ -89,18 +89,3 @@ The API will be available at `http://localhost:8000`
 Once the application is running, you can access:
 
 -   Interactive API documentation (Swagger UI): `http://localhost:8000/docs`
-
-## Project Structure
-
-```
-invoice/
-├── alembic/            # Database migrations
-├── schemas/            # Pydantic models
-├── services/           # Business logic
-├── utils/             # Utility functions
-├── uploads/           # Local file storage
-├── main.py            # FastAPI application
-├── models.py          # SQLAlchemy models
-├── database.py        # Database configuration
-└── dependencies.py    # FastAPI dependencies
-```
