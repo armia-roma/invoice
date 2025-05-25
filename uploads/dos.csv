@@ -1,0 +1,7 @@
+RecordType,InvoiceNumber,Date,BillTo,ItemDescription,Quantity,UnitPrice,LineTotal
+Header,INV-001,2025-05-23,John Doe,,,,
+Detail,INV-001,,,Web Design Services,1,500.00,500.00
+Detail,INV-001,,,Logo Design,1,150.00,150.00
+Detail,INV-001,,,Hosting (3 months),3,20.00,60.00
+Detail,INV-001,,,Domain Registration,1,10.00,10.00
+Summary,INV-001,,,,,,792.00
